@@ -61,7 +61,7 @@ Explore our demo store.
     <img alt="evershop-backend-demo" height="35" alt="everShop Admin Demo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-demo-back.png"/>
   </a>
   <a href="https://demo.evershop.io/" target="_blank">
-    <img alt="evershop-store-demo" height="35" alt="everShop Store Demo" src="https://raw.githubusercontent.com/evershopcommerce/uniqshop/dev/.github/images/evershop-demo-front.png"/>
+    <img alt="evershop-store-demo" height="35" alt="everShop Store Demo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-demo-front.png"/>
   </a>
 </p>
 <b>Demo user:</b>
