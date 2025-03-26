@@ -1,13 +1,13 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p align="center">
-<img width="60" height="68" alt="everShop Logo" src="https://raw.githubusercontent.com/uniqshopcommerce/evershop/dev/.github/images/logo-green.png"/>
+<img width="60" height="68" alt="everShop Logo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/logo-green.png"/>
 </p>
 <p align="center">
   <h1 align="center">uniqShop</h1>
 </p>
 <h4 align="center">
-    <a href="https://uniqshop.io/docs/development/getting-started/introduction">Documentation</a> |
-    <a href="https://demo.uniqshop.io/">Demo</a>
+    <a href="https://evershop.io/docs/development/getting-started/introduction">Documentation</a> |
+    <a href="https://demo.evershop.io/">Demo</a>
 </h4>
 
 <p align="center">
