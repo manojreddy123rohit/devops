@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<img alt="uniqShop" width="950" src="https://raw.githubusercontent.com/uniqshopcommerce/uniqshop/dev/.github/images/banner.png"/>
+<img alt="uniqShop" width="950" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/banner.png"/>
 </p>
 
 ## Introduction
@@ -58,10 +58,10 @@ Explore our demo store.
 
 <p align="left">
   <a href="https://demo.uniqshop.io/admin" target="_blank">
-    <img alt="uniqshop-backend-demo" height="35" alt="uniqShop Admin Demo" src="https://raw.githubusercontent.com/uniqshopcommerce/uniqshop/dev/.github/images/uniqshop-demo-back.png"/>
+    <img alt="evershop-backend-demo" height="35" alt="uniqShop Admin Demo" src="https://raw.githubusercontent.com/evershopcommerce/uniqshop/dev/.github/images/evershop-demo-back.png"/>
   </a>
-  <a href="https://demo.uniqshop.io/" target="_blank">
-    <img alt="uniqshop-store-demo" height="35" alt="uniqShop Store Demo" src="https://raw.githubusercontent.com/uniqshopcommerce/uniqshop/dev/.github/images/uniqshop-demo-front.png"/>
+  <a href="https://demo.evershop.io/" target="_blank">
+    <img alt="evershop-store-demo" height="35" alt="everShop Store Demo" src="https://raw.githubusercontent.com/evershopcommerce/uniqshop/dev/.github/images/evershop-demo-front.png"/>
   </a>
 </p>
 <b>Demo user:</b>
