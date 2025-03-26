@@ -57,8 +57,8 @@ For the full installation guide, please refer to our [Installation guide](https:
 Explore our demo store.
 
 <p align="left">
-  <a href="https://demo.uniqshop.io/admin" target="_blank">
-    <img alt="evershop-backend-demo" height="35" alt="uniqShop Admin Demo" src="https://raw.githubusercontent.com/evershopcommerce/uniqshop/dev/.github/images/evershop-demo-back.png"/>
+  <a href="https://demo.evershop.io/admin" target="_blank">
+    <img alt="evershop-backend-demo" height="35" alt="everShop Admin Demo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-demo-back.png"/>
   </a>
   <a href="https://demo.evershop.io/" target="_blank">
     <img alt="evershop-store-demo" height="35" alt="everShop Store Demo" src="https://raw.githubusercontent.com/evershopcommerce/uniqshop/dev/.github/images/evershop-demo-front.png"/>
