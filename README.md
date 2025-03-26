@@ -41,15 +41,15 @@ curl -sSL https://raw.githubusercontent.com/evershopcommerce/evershop/main/docke
 docker-compose up -d
 ```
 
-For the full installation guide, please refer to our [Installation guide](https://uniqshop.io/docs/development/getting-started/installation-guide).
+For the full installation guide, please refer to our [Installation guide](https://evershop.io/docs/development/getting-started/installation-guide).
 
 ## Documentation
 
-- [Installation guide](https://uniqshop.io/docs/development/getting-started/installation-guide).
+- [Installation guide](https://evershop.io/docs/development/getting-started/installation-guide).
 
-- [Extension development](https://uniqshop.io/docs/development/module/create-your-first-extension).
+- [Extension development](https://evershop.io/docs/development/module/create-your-first-extension).
 
-- [Theme development](https://uniqshop.io/docs/development/theme/theme-overview).
+- [Theme development](https://evershop.io/docs/development/theme/theme-overview).
 
 
 ## Demo
